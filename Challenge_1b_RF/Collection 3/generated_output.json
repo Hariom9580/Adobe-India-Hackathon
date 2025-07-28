@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-24T12:35:07.379636"
+    },
+    "extracted_sections": [
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "section_title": "and salt in a food processor.",
+            "importance_rank": 2799,
+            "page_number": 7
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "molasses, cumin, and salt in a food processor until smooth.",
+            "importance_rank": 3614,
+            "page_number": 12
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "o Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food",
+            "importance_rank": 3626,
+            "page_number": 13
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "o Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food",
+            "importance_rank": 2030,
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "o Blend chickpeas, tahini, lemon juice, minced garlic, and salt in a food processor.",
+            "importance_rank": 3182,
+            "page_number": 2
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": "o 1 teaspoon paprika\no 1 teaspoon salt\no Oil for frying\n• Instructions:\no Mix flour, butter, water, and beaten egg to form a dough, then let rest.\no Sauté ground beef, diced onion, minced garlic, chopped olives, and raisins with\ncumin, paprika, and salt until cooked.\no Roll out dough and cut into circles.\no Place a spoonful of filling on each circle and fold to seal.\no Fry in hot oil until golden.\no Drain on paper towels and serve warm.\nEscalivada\n• Ingredients:\no 2 eggplants\no 2 bell peppers\no 2 tomatoes\no 1 small onion\no 1/4 cup olive oil\no 1 teaspoon salt\n• Instructions:\no Preheat oven to 400°F (200°C).\no Roast eggplants, bell peppers, tomatoes, and onion until tender.\no Peel and slice vegetables.\no Arrange on a plate and drizzle with olive oil.\no Sprinkle with salt and serve warm or at",
+            "page_number": 7
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "Msemen\n• Ingredients:\no 2 cups flour\no 1 cup semolina\no 1 teaspoon salt\no 1/4 cup olive oil\no 1 cup water\no 1/4 cup butter\n• Instructions:\no Mix flour, semolina, and salt in a bowl.\no Add water and knead until smooth.\no Divide dough into balls and roll out into thin circles.\no Brush with melted butter and fold into squares.\no Cook on a hot griddle until golden on both sides.\no Serve warm.\nMuhammara\n• Ingredients:\no 2 red bell peppers\no 1/2 cup walnuts\no 1/4 cup breadcrumbs\no 2 cloves garlic\no 1/4 cup olive oil\no 1 tablespoon pomegranate molasses\no 1 teaspoon cumin\no 1 teaspoon salt\n• Instructions:\no Roast bell peppers until charred, then peel and seed.\no Blend peppers, walnuts, breadcrumbs, minced garlic, olive oil, pomegranate\nmolasses, cumin, and salt in a food processor until smooth.\no ",
+            "page_number": 12
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "o Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food\nprocessor.\no Slowly add olive oil while blending until smooth.\no Serve with a drizzle of olive oil.\nNaan\n• Ingredients:\no 2 1/4 teaspoons active dry yeast\no 1 teaspoon sugar\no 1/2 cup warm water\no 2 1/2 cups flour\no 1/2 cup yogurt\no 1/4 cup melted butter\no 1 teaspoon salt\n• Instructions:\no Dissolve yeast and sugar in warm water, let sit until foamy.\no Mix flour and salt in a bowl, then add yeast mixture, yogurt, and melted butter.\no Knead until smooth, then let rise until doubled.\no Divide dough into balls and roll out into circles.\no Cook on a hot griddle until bubbles form, then flip and cook the other side.\no Brush with melted butter and serve warm.\nNom Du Du (Green Papaya Salad)\n• Ingredients:\no 1 green pap",
+            "page_number": 13
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "• Instructions:\no Form risotto into balls and stuff with a cube of mozzarella.\no Dredge balls in flour, dip in beaten eggs, and coat with breadcrumbs.\no Fry in hot oil until golden.\no Drain on paper towels and serve warm.\nBaba Ganoush\n• Ingredients:\no 2 eggplants\no 1/4 cup tahini\no 1/4 cup lemon juice\no 2 cloves garlic\no 1/4 cup olive oil\no 1 teaspoon salt\n• Instructions:\no Roast eggplants until soft, then peel and mash.\no Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food\nprocessor.\no Slowly add olive oil while blending until smooth.\no Serve with a drizzle of olive oil.\nBaked Beans\n• Ingredients:\no 4 cups cooked navy beans\no 1 small onion\no 1/2 cup molasses\no 1/4 cup brown sugar\no 1/4 cup ketchup\no 1 tablespoon mustard\no 1 teaspoon salt\no 1/2 teaspoon pepper\n• I",
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "Hummus\n• Ingredients:\no 1 can chickpeas\no 1/4 cup tahini\no 1/4 cup lemon juice\no 2 cloves garlic\no 1/4 cup olive oil\no 1 teaspoon salt\n• Instructions:\no Drain and rinse chickpeas.\no Blend chickpeas, tahini, lemon juice, minced garlic, and salt in a food processor.\no Slowly add olive oil while blending until smooth.\no Serve with a drizzle of olive oil.\nJapchae\n• Ingredients:\no 8 ounces sweet potato noodles\no 1/2 pound beef\no 1 small onion\no 1 carrot\no 1 bell pepper\no 1 cup spinach\no 2 tablespoons soy sauce\no 1 tablespoon sesame oil\no 1 tablespoon sugar\no 1 tablespoon sesame seeds\n• Instructions:\no Cook noodles according to package instructions, then drain.\no Sauté sliced beef, diced onion, julienned carrot, and bell pepper in sesame oil\nuntil cooked.\no Add spinach and cook until wilted.\no M",
+            "page_number": 2
+        }
+    ]
+}
